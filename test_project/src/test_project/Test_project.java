@@ -16,6 +16,7 @@ public class Test_project {
     public static void main(String[] args) {
         String name = "hamza";
         System.out.println(name);
+        System.out.println("I hate everything");
                 
     }
     
